@@ -1,6 +1,8 @@
-package com.aoi.meeting.demo;
+package com.aoi.meeting.demo.Entity;
 
 import java.util.List;
+
+import com.aoi.meeting.demo.controller.CalendarView;
 
 public class Event {
 	
@@ -14,4 +16,5 @@ public class Event {
 		this.list = list;
 	}
 
+	 
 }

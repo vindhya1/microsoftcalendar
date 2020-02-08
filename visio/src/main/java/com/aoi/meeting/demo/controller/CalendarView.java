@@ -1,4 +1,4 @@
-package com.aoi.meeting.demo;
+package com.aoi.meeting.demo.controller;
 
 import java.util.ArrayList;
 
